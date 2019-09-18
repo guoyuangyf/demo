@@ -6,5 +6,6 @@ public class Test {
         String s2 = "he" + new String("llo");
         System.out.println(s1 == s2);
         System.out.println(s1 == s2);
+        System.out.println(s1 == s2);
     }
 }
